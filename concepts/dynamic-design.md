@@ -1,7 +1,7 @@
 ---
 description: >-
   This page shows how to use dynamic functions, the new experiment to make
-  highly advanced systems
+  highly scalable systems
 icon: ruler-triangle
 ---
 
