@@ -9,7 +9,7 @@ icon: check
 
 Assume we have a game of tag, and we have a function to tag players like this:
 
-{% code overflow="wrap" lineNumbers="true" fullWidth="true" %}
+{% code overflow="wrap" lineNumbers="true" fullWidth="false" %}
 ```applescript
 function tagPlayer(player: player):
   set {taggedPlayers::%{_player}%} to true
